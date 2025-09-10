@@ -42,3 +42,6 @@ You: rock | Computer: scissors
 🎉 You win this round!
 You have 2 lives left.
 Computer has 1 life left.
+
+## 🖼️ Screenshot
+![Gameplay Screenshot](screenshot.png)
