@@ -44,4 +44,4 @@ You have 2 lives left.
 Computer has 1 life left.
 
 ## 🖼️ Screenshot
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](https://github.com/SajQ-cmd/Rock-Paper-Scissors/blob/main/screenshot.png?raw=true)
