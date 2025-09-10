@@ -1,5 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 
 # 🎮 Rock Paper Scissors ✊ 📄 ✂️
 
