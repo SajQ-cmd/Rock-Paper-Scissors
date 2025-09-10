@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)
+
 # 🎮 Rock Paper Scissors ✊ 📄 ✂️
 
 A simple **Rock, Paper, Scissors** game in Python.  
