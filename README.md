@@ -20,8 +20,6 @@ Clone the repository:
 git clone https://github.com/SajQ-cmd/Rock-Paper-Scissors.git
 cd Rock-Paper-Scissors
 python rock_paper_scissors.py
-
-
 What do you choose: Rock, Paper, or Scissors?
 You: rock | Computer: scissors
 
@@ -42,6 +40,5 @@ You: rock | Computer: scissors
 🎉 You win this round!
 You have 2 lives left.
 Computer has 1 life left.
-
-## 🖼️ Screenshot
-![Gameplay Screenshot](https://github.com/SajQ-cmd/Rock-Paper-Scissors/blob/main/screenshot.png?raw=true)
+```
+![Gameplay Screenshot](screenshot.png)
